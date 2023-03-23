@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+**__pycache__/
+.vscode/
+audio/
+audio.mp3
+transcribe.json
